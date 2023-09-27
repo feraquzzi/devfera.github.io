@@ -11227,4 +11227,9 @@ textarea.form-control-lg {
   display: none;
 }
 
+/*get in touch button*/
+.gitouch:hover .gitouch{
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
