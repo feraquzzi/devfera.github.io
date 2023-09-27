@@ -11212,4 +11212,17 @@ textarea.form-control-lg {
   transform: translate(-50%, -50%);
 }
 
+/*contact form success alert*/
+.alert {
+  margin-bottom: 1em;
+  padding: 10px;
+  background: transparent;
+  font-family: 'Mukta Mahee', sans-serif;
+  font-size: 14px;
+  text-align: center;
+  color: #8a22d8;
+  border-radius: 2.5px;
+  display: none;
+}
+
 /*# sourceMappingURL=style.css.map */
